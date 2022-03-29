@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.wrap {
+  font-weight: bold;
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+.header {
+  background-color: #ffe1e4;
+  height: 100px;
+  line-height: 100px;
+}
+.banner {
+  background-color: #fbd6e3;
+  height: 200px;
+  line-height: 200px;
+}
+.content {
+  background-color: #ead5ee;
+  height: 300px;
+  line-height: 300px;
+}
+.footer {
+  background-color: #d6ebfd;
+  height: 100px;
+  line-height: 100px;
+}
+.container {
+  width: 1000px;
+  height: inherit;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
